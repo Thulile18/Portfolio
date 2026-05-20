@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Character Encoding -->
+    <meta charset="UTF-8">
+
+    <!-- Responsive Website -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Page Title -->
+    <title>About Me</title>
+
+    <!-- External CSS File -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- ================= HEADER ================= -->
+
+    <header>
+
+        <nav>
+
+            <!-- Logo -->
+            <h1 class="logo">TechPortfolio</h1>
+
+            <!-- Navigation Links -->
+            <ul>
+
+                <li><a href="index.html">Home</a></li>
+
+                <li><a href="about.html">About Me</a></li>
+
+                <li><a href="contact.html">Contact</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <!-- ================= ABOUT SECTION ================= -->
+
+    <section class="page-content">
+
+        <h2>About Me</h2>
+
+        <p>
+            I am a passionate IT graduate with an interest in
+            web development, software development, and technology.
+        </p>
+
+        <p>
+            I enjoy learning new programming languages and improving
+            my technical skills through personal projects and practice.
+        </p>
+
+        <p>
+            My current skills include HTML, CSS, JavaScript,
+            and basic problem-solving in programming.
+        </p>
+
+        <p>
+            My goal is to become a successful software developer
+            and contribute to innovative technology solutions.
+        </p>
+
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <p>Phone: +27 71 234 5678</p>
+
+        <div class="socials">
+
+            <a href="#">LinkedIn</a>
+
+            <a href="#">GitHub</a>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>

@@ -39,13 +39,11 @@
             <!-- Navigation Menu -->
             <ul class="nav-links">
 
-                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="index" class="active">Home</a></li>
 
-                <li><a href="about.html">About</a></li>
+                <li><a href="about">About</a></li>
 
-                <li><a href="projects.html">Projects</a></li>
-
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact">Contact</a></li>
 
             </ul>
 
@@ -76,11 +74,11 @@
                 <!-- Buttons -->
                 <div class="hero-buttons">
 
-                    <a href="contact.html" class="btn">
+                    <a href="contact" class="btn">
                         Contact Me
                     </a>
 
-                    <a href="cv.pdf" download class="btn btn-secondary">
+                    <a href="Thulile Gqada Resume.pdf" download class="btn btn-secondary">
                         Download CV
                     </a>
 
@@ -91,9 +89,8 @@
             <!-- Right Image -->
             <div class="hero-image">
 
-                <img src="images/profile.jpg"
-                    alt="Portrait of Thulile"
-                    loading="lazy">
+                <img src="e388398a-59ff-4148-a5ac-7370dd5d31c3.png"
+                     style="width:500px;height:600px;>
 
             </div>
 
@@ -169,10 +166,10 @@
                     <h3>Portfolio Website</h3>
 
                     <p>
-                        A responsive personal portfolio built using HTML and CSS.
+                        A responsive personal portfolio built using Figma.
                     </p>
 
-                    <a href="#" class="project-link">
+                    <a href="https://simple-sort-54933621.figma.site/" class="project-link">
                         View Project →
                     </a>
 
@@ -181,33 +178,19 @@
                 <!-- Project 2 -->
                 <article class="project-card">
 
-                    <h3>Calculator App</h3>
+                    <h3>AI Study Buddy</h3>
 
                     <p>
-                        A calculator application developed with JavaScript.
+                        AI Study Buddy using Lovable.dev.
                     </p>
 
-                    <a href="#" class="project-link">
+                    <a href="https://concept-explor-ai.lovable.app/" class="project-link">
                         View Project →
                     </a>
 
                 </article>
 
-                <!-- Project 3 -->
-                <article class="project-card">
-
-                    <h3>Student Registration Form</h3>
-
-                    <p>
-                        A clean registration form designed using HTML and CSS.
-                    </p>
-
-                    <a href="#" class="project-link">
-                        View Project →
-                    </a>
-
-                </article>
-
+          
             </div>
 
         </section>
@@ -220,7 +203,7 @@
 
         <p>&copy; 2026 Thulile. All Rights Reserved.</p>
 
-        <p>📞 +27 61804 4825</p>
+        <p>📞 +27 61 8044 825</p>
 
         <!-- Social Links -->
         <div class="socials">
@@ -229,7 +212,7 @@
 
             <a href="https://github.com/Thulile18/">GitHub</a>
 
-            <a href="busisiwegqada0@gmail.com">Email</a>
+            <a href="mailto:busisiwegqada0@gmail.com">Email</a>
 
         </div>
 
